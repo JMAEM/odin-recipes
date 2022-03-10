@@ -1,0 +1,30 @@
+body {
+    background-color: navajowhite;
+}
+
+.header {
+    color: black;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: "Brush Script MT", "Garamond", "Times New Roman" ;
+}
+
+.ul-index {
+   
+}
+
+.button-index {
+    font-size: 18px;
+    color: black;
+    font-weight: normal;
+    font-family: "Garamond", Verdana, sans-serif;
+    padding: 2px 4px 2px 4px;
+    background-color: crimson;
+   
+}
+
+.img-index {
+    height: auto;
+    width: 400px;
+    padding-top: 4px;
+}
